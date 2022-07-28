@@ -59,7 +59,7 @@ At the beginning of my most recent contract for the HS2 project, I was required 
 **High Speed 2 (HS2) South Enabling Works Contract** (November 2019 - March 2020)  
 _Senior Consultant (Self Employed), Transport Engineering_
 
-- Led Transport Modelling and Compliance Assessments for HS2 South Enabling Works Contract (£480m contract in Euston, London) as part of the largest infrastructure project in Europe, HS2 high-speed railway project
+- Led transport modelling and compliance assessments for HS2 Enabling Works Contract in London(£480m contract) as part of Europe's largest infrastructure project, High Speed 2(HS2) Railway
 - Collaborated with multidisciplinary engineering teams, ensuring all proposed works are compliant with relevant ES(Environment Statement) support the HS2 Act.
 
 **Hampshire County Council** (March 2014 - October 2019)  
