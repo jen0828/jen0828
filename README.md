@@ -65,7 +65,7 @@ _Senior Consultant (Self Employed), Transport Engineering_
 **Hampshire County Council** (March 2014 - October 2019)  
 _Senior Consultant (Self Employed), Strategic Transport_
 
-- Transport Planning lead for Basingstoke and Deane Borough area managing transport projects for the district as part of £300 million capital infrastructure programme 
+- Transport planning lead for Basingstoke and Deane district managing transport projects as part of £300 million capital infrastructure programme 
 - Produced Business Cases for the feasibility study programme
 - Led monitoring works(data analysis) for seven major junction improvements funded by EM3 LEP
 - Built strong relationships with key stakeholders and funding bodies while taking part in external funding bids such as DfT(LLM bid - £160m), EM3 LEP(A33 highway bid - £2.2m) and Network Rail(CCIF bid - £220k)
