@@ -18,7 +18,7 @@
 
 I am a passionate Software Engineer who values writing quality, fully tested, extensible code. I also believe in applying these principles in a [pragmatic way](https://pragprog.com/tips/). 🛠 
 
-Being a fast learner, I am quick to ramp up on new technologies. I strongly value inclusivity, communication and continual growth. 🌱
+Being a fast learner, I am quick to ramp up on new technologies.     I strongly value inclusivity, communication and continual growth.🌱
 
 #### Main Tech Stack:
 <p align="left"> 
