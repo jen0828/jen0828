@@ -15,7 +15,8 @@
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
  </div>
   <br> 
-The way the tech industry transforms people's lives is fascinating, and I am passionate about being a part of this exciting industry. After discovering my passion for programming, I couldn't get enough. I completely immersed myself in a self-learning journey - this led me to join the highly selective Full Stack developer program at Makers Academy, where I learned how to write quality, fully tested and extensible code.
+I am a passionate Software Engineer who values writing quality, fully tested, extensible code. I also believe in applying these principles in a pragmatic way. Being a fast learner, I am quick to ramp up on new technologies. I strongly value inclusivity, communication and continual growth. 
+
 
 #### Main Tech Stack:
 <p align="left"> 
