@@ -1,5 +1,6 @@
 <div align="center">
- <h2>Hi there, I'm Jenny! 🙋‍♀️</h2>
+ <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Jenny</h2>
+ 
 </div>
 
 <div align="center">
@@ -14,7 +15,7 @@
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
  </div>
   <br> 
-The way the tech industry transforms people's lives is fascinating, and I am passionate about being a part of this exciting industry. With over ten years of experience working in the infrastructure industry for global engineering consultancies and the public sector, my previous career involved data analysis and building transport simulation models, which required a similar coding process - it was this work that initially sparked my interest in programming. After discovering my passion for programming, I couldn't get enough. I completely immersed myself in a self-learning journey - this led me to join the highly selective Full Stack developer program at Makers Academy, where I learned how to write quality, fully tested and extensible code.
+The way the tech industry transforms people's lives is fascinating, and I am passionate about being a part of this exciting industry. After discovering my passion for programming, I couldn't get enough. I completely immersed myself in a self-learning journey - this led me to join the highly selective Full Stack developer program at Makers Academy, where I learned how to write quality, fully tested and extensible code.
 
 #### Main Tech Stack:
 <p align="left"> 
@@ -37,7 +38,7 @@ The way the tech industry transforms people's lives is fascinating, and I am pas
 | [ShopNature](https://github.com/jen0828/ShopNature) |An e-commerce app built with React, Redux and tested with Cypress|React, Redux, JavaScript, JSON-server, Bootstrap, Testing (Cypress)| 
 | [Tutoroom](https://github.com/jen0828/tutoroom_fe) |A full-stack tutoring web application built with Rails API and React frontend| Ruby, Rails, Javascript, React,  Insomnia, Axios, Amazon S3, Bootstrap, Testing (Jest, React testing library, RSpec)|
 [Catbook](https://github.com/jen0828/acebook-StringMeAlong) | A full-stack social media application built with Ruby on Rails | Ruby, Rails, Heroku, HTML, CSS, Testing (RSpec, Capybara)|
-| [Todos](https://github.com/jen0828/TodoList-react) | A simple productivity app using Test-Driven Development (TDD) with Jest & React testing library|React, JavsScript, Bootstrap, Netlify, Responsive design, Testing (Jest, React testing library)|
+| [Todos](https://github.com/jen0828/TodoList-react) | A simple productivity app using Test-Driven Development (TDD) with Jest & React testing library|React, TypeScript, Bootstrap, Netlify, Responsive design, Testing (Jest, React testing library)|
 
 
 ***
