@@ -20,7 +20,7 @@
 
 I am a passionate Software Engineer who values writing quality, fully tested, extensible code. I also believe in applying these principles in a [pragmatic way](https://pragprog.com/tips/) 🛠 
 
-Progress, not perfection - I strongly value continual growth. 🌱
+Progress, not perfection 🌱
 
 #### Main Tech Stack:
 <p align="left"> 
