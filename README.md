@@ -9,7 +9,7 @@
      <a href="https://portfolio-jmoon.netlify.app">
     <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
  <a href="https://www.codewars.com/users/jen0828">
-  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/></a>
+  <img src="https://www.codewars.com/users/jen0828/badges/micro"/></a>
  </a>
  <a href="https://www.instagram.com/im_jenny.uk"/>
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
