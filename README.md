@@ -23,9 +23,11 @@ Progress, not perfection 🌱
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
 
 
-#### Main Tech Stack: <a href="https://www.codewars.com/users/jen0828">
+#### Main Tech Stack: 
+<p align="left"> 
+<a href="https://www.codewars.com/users/jen0828">
   <img src="https://www.codewars.com/users/jen0828/badges/micro"/></a>
- </a>
+ </p>
 <p align="left"> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://www.typescriptlang.org/"> <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> </a> 
