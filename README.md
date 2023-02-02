@@ -1,16 +1,13 @@
 <div align="center">
- <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Jenny</h2>
- 
-</div>
+ <h2>  👋 Hi there, I'm Jenny</h2>
+ </div>
 
 <div align="center">
  <a href="https://www.linkedin.com/in/jenny-moon-">
     <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
      <a href="https://portfolio-jmoon.netlify.app">
     <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
- <a href="https://www.codewars.com/users/jen0828">
-  <img src="https://www.codewars.com/users/jen0828/badges/micro"/></a>
- </a>
+ 
  <a href="https://www.instagram.com/im_jenny.uk"/>
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
  </div>
@@ -18,14 +15,17 @@
   
   
 
-I am a passionate Software Engineer who values writing quality, fully tested, extensible code. I also believe in applying these principles in a [pragmatic way](https://pragprog.com/tips/) 🛠 
+I am a passionate Software Engineer who values writing quality, fully tested, extensible code. 
+I also believe in applying these principles in a [pragmatic way](https://pragprog.com/tips/) 🛠 
 
 Progress, not perfection 🌱
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
 
 
-#### Main Tech Stack:
+#### Main Tech Stack: <a href="https://www.codewars.com/users/jen0828">
+  <img src="https://www.codewars.com/users/jen0828/badges/micro"/></a>
+ </a>
 <p align="left"> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://www.typescriptlang.org/"> <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> </a> 
@@ -53,6 +53,14 @@ Progress, not perfection 🌱
 ### GitHub Stats
     
 ![Jenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jen0828&hide=stars&theme=tokyonight&show_icons=true&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jen0828&layout=compact&theme=tokyonight&exclude_repo=skills-workshops,course)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### When I'm not coding
+
+* I love - travelling and exploring new places, hiking, photography
+* Non-fiction addict! :heart:    :books:  :coffee: 
+* Serial meditator 🧘‍♀️  
+
 
 
 
