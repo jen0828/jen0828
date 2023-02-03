@@ -13,10 +13,10 @@
  </div>
   <br> 
   
-  
+I am a passionate Software Engineer who values writing quality, fully tested, extensible code. <br>
+Also I'm a [pragmatic programmer](https://pragprog.com/tips/) WIP...<br>
 
-I am a passionate Software Engineer who values writing quality, fully tested, extensible code. 
-I also believe in applying these principles in a [pragmatic way](https://pragprog.com/tips/) 🛠 
+
 
 Progress, not perfection 🌱
 
