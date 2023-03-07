@@ -46,6 +46,7 @@ Progress, not perfection 🌱
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [ShopNature](https://github.com/jen0828/ShopNature) |An e-commerce app built with React, Redux and tested with Cypress|React, Redux, JavaScript, JSON-server, Bootstrap, Testing (Cypress)| 
+| [DiceGame](https://github.com/jen0828/diceGame) |An interactive dice game built with React and tested with Cypress|React, React Hooks, JavaScript, Netlify, Testing (Cypress)| 
 | [Tutoroom](https://github.com/jen0828/tutoroom_fe) |A full-stack tutoring web application built with Rails API and React frontend| Ruby, Rails, Javascript, React,  Insomnia, Axios, Amazon S3, Bootstrap, Testing (Jest, React testing library, RSpec)|
 [Catbook](https://github.com/jen0828/acebook-StringMeAlong) | A full-stack social media application built with Ruby on Rails | Ruby, Rails, Heroku, HTML, CSS, Testing (RSpec, Capybara)|
 | [Todos](https://github.com/jen0828/TodoList-react) | A simple productivity app using Test-Driven Development (TDD) with Jest & React testing library|React, TypeScript, Bootstrap, Netlify, Responsive design, Testing (Jest, React testing library)|
