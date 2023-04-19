@@ -45,6 +45,7 @@ Progress, not perfection 🌱
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| [MyTil](https://github.com/jen0828/my-til) |Ongoing personal blog project built with Next.js 13 |TypeScript, Next.js, Tailwind CSS, Vercel| 
 | [ShopNature](https://github.com/jen0828/ShopNature) |An e-commerce app built with React, Redux and tested with Cypress|React, Redux, JavaScript, JSON-server, Bootstrap, Testing (Cypress)| 
 | [DiceGame](https://github.com/jen0828/diceGame) |An interactive dice game built with React and tested with Cypress|React, React Hooks, JavaScript, Netlify, Testing (Cypress)| 
 | [Tutoroom](https://github.com/jen0828/tutoroom_fe) |A full-stack tutoring web application built with Rails API and React frontend| Ruby, Rails, Javascript, React,  Insomnia, Axios, Amazon S3, Bootstrap, Testing (Jest, React testing library, RSpec)|
@@ -64,6 +65,12 @@ Progress, not perfection 🌱
 * Non-fiction addict! :heart:    :books:  :coffee: 
 * Serial meditator 🧘‍♀️  
 
+
+
+
+
+
+  
 
 
 
