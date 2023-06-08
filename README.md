@@ -54,9 +54,7 @@ Progress, not perfection 🌱
 
 
 ***
-### GitHub Stats
-    
-![Jenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jen0828&hide=stars&theme=tokyonight&show_icons=true&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jen0828&layout=compact&theme=tokyonight&exclude_repo=skills-workshops,course)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### When I'm not coding
