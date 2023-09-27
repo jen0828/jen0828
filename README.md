@@ -22,6 +22,7 @@
   <img src="https://www.codewars.com/users/jen0828/badges/micro"/></a>
  </p>
 <p align="left"> 
+ <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" alt="csharp" width="40" height="40"/> </a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://www.typescriptlang.org/"> <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> </a> 
    <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" width="40" height="40"/> </a> 
