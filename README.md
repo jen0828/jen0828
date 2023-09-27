@@ -12,16 +12,9 @@
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
  </div>
   <br> 
-  
-I am a passionate Software Engineer who values writing quality, fully tested, extensible code. <br>
-Also I'm a [pragmatic programmer](https://pragprog.com/tips/) WIP...<br>
-
-
-
-Progress, not perfection 🌱
-
+  <div align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
-
+</div>
 
 #### Main Tech Stack: 
 <p align="left"> 
