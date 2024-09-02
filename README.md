@@ -47,13 +47,6 @@
 | [Todos](https://github.com/jen0828/TodoList-react) | A simple productivity app using Test-Driven Development (TDD) with Jest & React testing library|React, TypeScript, Bootstrap, Netlify, Responsive design, Testing (Jest, React testing library)|
 
 
-***
-
-### When I'm not coding
-
-* I love - travelling and exploring new places, hiking, photography
-* Non-fiction addict! :heart:    :books:  :coffee: 
-* Serial meditator 🧘‍♀️  
 
 
 
