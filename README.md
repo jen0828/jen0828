@@ -3,7 +3,7 @@
  </div>
 
 <div align="center">
- <a href="https://www.linkedin.com/in/jenny-moon-">
+ <a href="https://www.linkedin.com/in/jjmoon/">
     <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
      <a href="https://portfolio-jmoon.netlify.app">
     <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
