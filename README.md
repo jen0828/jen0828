@@ -2,15 +2,7 @@
  <h2>  👋 Hi there, I'm Jenny</h2>
  </div>
 
-<div align="center">
- <a href="https://www.linkedin.com/in/jjmoon/">
-    <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-     <a href="https://portfolio-jmoon.netlify.app">
-    <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
- 
- <a href="https://www.instagram.com/im_jenny.uk"/>
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
- </div>
+
   <br> 
   <div align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
